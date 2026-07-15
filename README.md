@@ -18,7 +18,7 @@
 
 ## 🧭 About Me
 
-I'm a Software Engineer with **8+ years of experience**, working on solutions for **fintech, edtech, and lawtech**. I've been responsible for applications serving **more than 700,000 users**, always with a focus on **performance, security, and scalability**.
+Over the past eight years, I've had the opportunity to work on products that are part of many people's daily lives. I've developed solutions across various sectors, participating from architecture definition to the delivery of functionalities used by hundreds of thousands of users.
 
 - 🔭 Responsible for developing a Flutter application with over **700k+ active users**
 - 🌱 Pursuing a **Postgraduate degree in Artificial Intelligence** (UTFPR)
@@ -84,9 +84,9 @@ I'm a Software Engineer with **8+ years of experience**, working on solutions fo
 ## 💼 Work Experience
 
 ```text
-2022 — Present    Senior Full Stack Developer @ GRAN (Edtech)
+2022 — 2026       Senior Full Stack Developer @ GRAN (Edtech)
                   ↳ Educational app with 700k+ active users
-                  ↳ Scalable architecture with Flutter, Angular, and Laravel
+                  ↳ Scalable architecture with Flutter, Node.js, and Laravel
 
 2020 — 2021       Full Stack & Mobile Developer @ Serveloja (Fintech)
                   ↳ Digital account and payments app
