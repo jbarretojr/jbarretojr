@@ -20,7 +20,7 @@
 
 I'm a Software Engineer with **8+ years of experience**, working on solutions for **fintech, edtech, and lawtech**. I've been responsible for applications serving **more than 700,000 users**, always with a focus on **performance, security, and scalability**.
 
-- 🔭 Currently leading development of an educational app with **700k+ active users** at **GRAN**
+- 🔭 Responsible for developing a Flutter application with over **700k+ active users**
 - 🌱 Pursuing a **Postgraduate degree in Artificial Intelligence** (UTFPR)
 - 💳 Implemented full banking integrations: **PIX, TED, Boleto, mPOS**
 - ⚙️ Experienced in software architecture, microservices, and DDD best practices
